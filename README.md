@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **C++, Python, and structured query language **.
 - 💕 I’m looking to collaborate on **exciting software projects and startups**.
 - 📬 How to reach me: ** | [LinkedIn](https://www.linkedin.com/in/md-irshad-alam-a97282244/) | [Twitter](https://x.com/md97012)**.
-- 😃 Pronouns: **He/Him** (or your preferred pronouns).
+- 😃 Pronouns: **He/Him** (He Love the coding..).
 - ⚡ Fun fact: **I love solving coding challenges and exploring new tech trends**!
 
 
