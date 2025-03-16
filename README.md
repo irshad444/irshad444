@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Irshad444!
 - 👀 I’m interested in **web development, machine learning, and open-source projects**.
-- 🌱 I’m currently learning **C++, Python, and struture query language **.
+- 🌱 I’m currently learning **C++, Python, and structured query language **.
 - 💕 I’m looking to collaborate on **exciting software projects and startups**.
 - 📬 How to reach me: **[YouTube](your-youtube-link) | [LinkedIn](your-linkedin-link) | [Twitter](your-twitter-link)**.
 - 😃 Pronouns: **He/Him** (or your preferred pronouns).
