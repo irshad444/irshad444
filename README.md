@@ -2,7 +2,7 @@
 - 👀 I’m interested in **web development, machine learning, and open-source projects**.
 - 🌱 I’m currently learning **C++, Python, and structured query language **.
 - 💕 I’m looking to collaborate on **exciting software projects and startups**.
-- 📬 How to reach me: **[YouTube](your-youtube-link) | [LinkedIn](your-linkedin-link) | [Twitter](your-twitter-link)**.
+- 📬 How to reach me: ** | [LinkedIn](https://www.linkedin.com/in/md-irshad-alam-a97282244/) | [Twitter](https://x.com/md97012)**.
 - 😃 Pronouns: **He/Him** (or your preferred pronouns).
 - ⚡ Fun fact: **I love solving coding challenges and exploring new tech trends**!
 
